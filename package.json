@@ -18,7 +18,7 @@
         "@vue/compiler-sfc": "^3.2.31",
         "axios": "^0.25",
         "laravel-mix": "^6.0.6",
-        "laravel-mix-swc": "^0.2.0",
+        "laravel-mix-swc": "^0.3.0",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14",
         "postcss-import": "^14.0.2",
